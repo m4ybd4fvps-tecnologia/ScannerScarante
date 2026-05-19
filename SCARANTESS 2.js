@@ -2240,7 +2240,7 @@ await wv.loadHTML(html, "http://localhost")
 let langScript = `var TRANSLATIONS = {
 pt: {
 eyebrow: "Scanner iOS",
-credits: "SOUZA SS",
+credits: "SCARANTE SS",
 fileLabel: "Arquivo:",
 start: "Início",
 lastRecord: "Último registro",
@@ -2317,7 +2317,7 @@ reasonOrg: function(kw){ return "Org/ISP associado a hospedagem/cheat proxy: " +
 },
 en: {
 eyebrow: "iOS Scanner",
-credits: "by SOUZA SS",
+credits: "by SCARANTE SS",
 fileLabel: "File:",
 start: "Start",
 lastRecord: "Last record",
@@ -2394,7 +2394,7 @@ reasonOrg: function(kw){ return "Org/ISP associated with hosting/cheat proxy: " 
 },
 es: {
 eyebrow: "Scanner iOS",
-credits: "SOUZA SS",
+credits: "SCARANTE SS",
 fileLabel: "Archivo:",
 start: "Inicio",
 lastRecord: "Último registro",
